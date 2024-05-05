@@ -1,0 +1,14 @@
+https://www.youtube.com/watch?v=rHux0gMZ3Eg
+
+1. create a venv
+2. install django inside that venv using "pipenv install django".
+3. django-admin startproject projectname
+4. python manage.py runserver
+5. django-admin startapp appname
+6. add appname to INSTALLED_APPS IN settings.
+7. views files control request and response.
+8. views file is the request handler.
+9. in views create HttpResponse code.
+10. then connect views to urls.
+11. mapping urls to views.
+12. every app can have its url configuration
