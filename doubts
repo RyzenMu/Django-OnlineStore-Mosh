@@ -12,3 +12,16 @@ https://www.youtube.com/watch?v=rHux0gMZ3Eg
 10. then connect views to urls.
 11. mapping urls to views.
 12. every app can have its url configuration
+13.template in other language is called views in django.
+14. create a folder called templates in the app.
+15. create a html file inside the templates folder.
+16. go to views.py
+17. render the say_hello function.
+18. we can also pass variables/parameters inside render within a dictionary of variables.
+19. in html file insert the variable with two set of curly braces {{variable_name}}.
+20. within templates i.e html file we can also add logic.
+21. like if conditions within {% if %} ... {% else %} ... {% endif %}.
+22. nowadays django is not used for templates.
+23. nowadays django is used for data, databases, etc...
+24. stopped at 36.22 // debugging Django Applications in VSCode.
+25.
