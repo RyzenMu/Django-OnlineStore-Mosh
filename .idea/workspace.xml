@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6719980-e645-4d55-abcf-2a0fb888b652" name="Changes" comment="django stsrted">
-      <change afterPath="$PROJECT_DIR$/playground/templates/hello.html" afterDir="false" />
+    <list default="true" id="e6719980-e645-4d55-abcf-2a0fb888b652" name="Changes" comment="django models">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/doubts" beforeDir="false" afterPath="$PROJECT_DIR$/doubts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/playground/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/playground/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,13 +130,22 @@
       <option name="project" value="LOCAL" />
       <updated>1714887987883</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="django models">
+      <option name="closed" value="true" />
+      <created>1715517979896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715517979896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="django stsrted" />
-    <option name="LAST_COMMIT_MESSAGE" value="django stsrted" />
+    <MESSAGE value="django models" />
+    <option name="LAST_COMMIT_MESSAGE" value="django models" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
